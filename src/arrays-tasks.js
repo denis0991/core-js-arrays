@@ -22,7 +22,6 @@
  */
 function getIntervalArray(/* start, end */) {
   throw new Error('Not implemented');
-
 }
 
 /**
